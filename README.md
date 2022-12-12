@@ -1,9 +1,9 @@
 Drug Sensitivity : NCI DREAM Challenge 2012 
 ========================
 
-Authors: Lei Song; Difei Wang Ph.D.
+Authors: Lei Song; Difei Wang
 
-Emails: wang.difei_AT_yahoo.com; difei.wang_AT_nih.gov; difei.wang_AT_georgetown.edu
+Emails: wang.difei_AT_yahoo.com
 
 Description
 ===========
